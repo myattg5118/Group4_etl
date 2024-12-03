@@ -1,9 +1,13 @@
 version: 2
 
 sources:
-  - name: noise_complaints
+  - name: Noise_Complaint_Data
     tables:
-      - name: noise_complaints_data
-  - name: parking_violations
+      - name: noise_complaints_311
+
+  - name: Parking_data
     tables:
-      - name: parking_violations_data
+      - name: Parking_311
+
+
+
